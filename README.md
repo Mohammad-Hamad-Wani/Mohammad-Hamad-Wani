@@ -1,4 +1,4 @@
-# Hey there!I am Hammad
+# 👋Hey there!I am Hammad
 🎓BCA Student @ Islamia College of Science and Commerce Srinagar  
 📆Class of 2026  
 🌐Exploring Web Development & Open Source  
@@ -17,4 +17,4 @@
 ![Linux](https://img.shields.io/badge/Linux-yellow)
 
 ## 📬 How to reach me
-- LinkedIn: https://www.linkedin.com/in/mohammad-hammad-84492032a
+- [![LinkedIn: (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/mohammad-hammad-84492032a)
